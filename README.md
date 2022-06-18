@@ -6,3 +6,4 @@
 5) В файле host_manifest.json в поле path изменить путь до exe приложения которое сбилдили. (app -> bin -> Debug -> netcoreapp3.1) (заменить \ на двойно \)
 6) Добавить раздел в реестр по пути HKEY_CURRENT_USER -> SOFTWARE -> Google -> Chrome -> NativeMessagingHosts с названием com.certs.native со значением пути до файла host_manifest.json
 7) Поменять id расширения в app.js на хосте сайта
+https://frontend-vladislav.ru/certs-ext/

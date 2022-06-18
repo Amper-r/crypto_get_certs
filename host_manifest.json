@@ -1,10 +1,9 @@
 {
   "name": "com.certs.native",
   "description": "Example host for native messaging",
-  "path": "C:\\Users\\User\\Desktop\\WebServer\\WebServerCert4\\bin\\Debug\\netcoreapp3.1\\WebServerCert4.exe",
+  "path": "",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension:\/\/fikdbjmjhoendeooednecckjifgeimmf\/",
-	"chrome-extension:\/\/ogjddnbgmiidhadmmmjinegkiknkicoc\/"
+    "chrome-extension:\/\/ид_расширения\/"
   ]
 }

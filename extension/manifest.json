@@ -1,0 +1,14 @@
+{
+    "description": "Расширение Crypto get certs получает данные сертификатов с пк пользователя",
+    "manifest_version": 3,
+    "name": "Crypto get certs",
+    "version": "1.0",
+  
+    "background": {
+      "service_worker": "background.js"
+    },
+    "externally_connectable": {
+      "matches": ["*://frontend-vladislav.ru/*"]
+    },
+    "permissions": ["nativeMessaging"]
+  }

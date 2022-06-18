@@ -1,0 +1,1 @@
+reg add HKCU\SOFTWARE\Google\Chrome\NativeMessagingHosts\com.certs.native /d путь_до_манифеста /f
